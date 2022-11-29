@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-kr"
-title                    : "코딩 초보자의 일기(?)"
+locale                   : "en-US"
+title                    : "blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "민규"
-description              : "C언어 용"
+name                     : "-"
+description              : "I like python."
 url                      : "https://apapeprofj.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
